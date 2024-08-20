@@ -1,4 +1,4 @@
-describe('Cypress learning - Gentest', () => {
+describe('Cypress learning - Gentest - 1', () => {
 
   it('test one', () => {
     const firstName = 'Bob'
